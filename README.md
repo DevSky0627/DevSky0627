@@ -22,7 +22,6 @@
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 
 
